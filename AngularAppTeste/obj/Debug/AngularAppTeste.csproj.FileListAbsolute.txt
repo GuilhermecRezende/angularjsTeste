@@ -1,0 +1,5 @@
+C:\Projects\VS2013\AngularAppTeste\AngularAppTeste\bin\AngularAppTeste.dll.config
+C:\Projects\VS2013\AngularAppTeste\AngularAppTeste\bin\AngularAppTeste.dll
+C:\Projects\VS2013\AngularAppTeste\AngularAppTeste\bin\AngularAppTeste.pdb
+C:\Projects\VS2013\AngularAppTeste\AngularAppTeste\obj\Debug\AngularAppTeste.dll
+C:\Projects\VS2013\AngularAppTeste\AngularAppTeste\obj\Debug\AngularAppTeste.pdb
